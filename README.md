@@ -100,9 +100,9 @@ The results and insights derived from the analysis are presented with the help o
 The conclusion summarizes the entire project and highlights the key findings and implications of the analysis. The relevance of the insights in the context of the Indian startup ecosystem is discussed.
 
 ## 13. Authors
+- Kevin Kegan Olome (Data Analyst)
 - Laura Nyangasi Masambu (Data Analyst)
 - Kojo Kesse-Amoahene (Data Analyst)
-- Kevin Kegan Olome (Data Analyst)
 - Francis Nketsiah (Data Analyst)
 ---
 
